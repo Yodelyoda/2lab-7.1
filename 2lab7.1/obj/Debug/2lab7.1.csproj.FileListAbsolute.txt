@@ -1,0 +1,7 @@
+C:\Users\Yoda\source\repos\2lab7.1\bin\Debug\2lab7.1.exe.config
+C:\Users\Yoda\source\repos\2lab7.1\bin\Debug\2lab7.1.exe
+C:\Users\Yoda\source\repos\2lab7.1\bin\Debug\2lab7.1.pdb
+C:\Users\Yoda\source\repos\2lab7.1\obj\Debug\2lab7.1.csprojAssemblyReference.cache
+C:\Users\Yoda\source\repos\2lab7.1\obj\Debug\2lab7.1.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\source\repos\2lab7.1\obj\Debug\2lab7.1.exe
+C:\Users\Yoda\source\repos\2lab7.1\obj\Debug\2lab7.1.pdb
